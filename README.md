@@ -32,3 +32,9 @@ BEGINNER  TO DO LIST WEB APP
  Custom scrollbar
  
  Responsivity
+ 
+ 
+#TOOLS
+
+Css Framework: Semantic UI
+Toast or Notification: Noty
